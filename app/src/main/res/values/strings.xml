@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FruitBox_RecyclerView</string>
+    <string name="durian_desc">
+    Durian adalah buah tropis yang berasal dari wilayah Asia Tenggara.
+    Buah ini memiliki kulit yang keras dan berlekuk-lekuk tajam sehingga menyerupai duri.
+    Daging buahnya berwarna kuning dan memiliki rasa yang manis dan khas.
+    Durian mengandung banyak nutrisi seperti vitamin C, serat, dan kalium.
+    Buah ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas.
+    </string>
+    <string name="semangka_desc">
+    Semangka adalah buah yang berair dan segar.
+    Buah ini memiliki daging buah yang berwarna merah muda dan biji yang berwarna hitam.
+    Semangka mengandung banyak air dan elektrolit yang baik untuk menjaga keseimbangan cairan
+    dalam tubuh. Buah ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas.
+    </string>
+    <string name="hazelnut_desc">
+    Hazelnut adalah kacang yang berasal dari Eropa dan Asia Barat.
+    Kacang ini memiliki kulit yang keras dan berwarna coklat.
+    Daging kacangnya berwarna putih dan memiliki rasa yang khas.
+    Hazelnut mengandung banyak nutrisi seperti vitamin E, serat, dan magnesium.
+    Kacang ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas.
+    </string>
+    <string name="leci_desc">
+    Leci adalah buah yang berasal dari Asia Tenggara.
+    Buah ini memiliki kulit yang tipis dan daging buah yang berwarna putih.
+    Leci mengandung banyak nutrisi seperti vitamin C, serat, dan kalium.
+    Buah ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas.
+    </string>
+    <string name="pepaya_desc">
+    Pepaya adalah buah yang berasal dari Meksiko dan Amerika Tengah.
+    Buah ini memiliki kulit yang tipis dan daging buah yang berwarna oranye.
+    Pepaya mengandung banyak nutrisi seperti vitamin C, serat, dan kalium.
+    Buah ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas.
+    </string>
+    <string name="pisang_desc">
+    Pisang adalah buah yang berasal dari Asia Tenggara.
+    Buah ini memiliki kulit yang tipis dan daging buah yang berwarna kuning atau hijau.
+    Pisang mengandung banyak nutrisi seperti vitamin C, serat, dan kalium.
+    Buah ini juga mengandung senyawa antioksidan yang dapat membantu
+    melindungi tubuh dari kerusakan sel dan radikal bebas .
+    </string>
+</resources>
